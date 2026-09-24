@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/VictorJoeG/DSA/tree/master/0134-gas-station) |
 | [0240-search-a-2d-matrix-ii](https://github.com/VictorJoeG/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0875-koko-eating-bananas](https://github.com/VictorJoeG/DSA/tree/master/0875-koko-eating-bananas) |
+| [1901-find-a-peak-element-ii](https://github.com/VictorJoeG/DSA/tree/master/1901-find-a-peak-element-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/VictorJoeG/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/VictorJoeG/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0875-koko-eating-bananas](https://github.com/VictorJoeG/DSA/tree/master/0875-koko-eating-bananas) |
+| [1901-find-a-peak-element-ii](https://github.com/VictorJoeG/DSA/tree/master/1901-find-a-peak-element-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -34,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/VictorJoeG/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/VictorJoeG/DSA/tree/master/0240-search-a-2d-matrix-ii) |
+| [1901-find-a-peak-element-ii](https://github.com/VictorJoeG/DSA/tree/master/1901-find-a-peak-element-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
