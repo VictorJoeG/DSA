@@ -41,4 +41,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/VictorJoeG/DSA/tree/master/0240-search-a-2d-matrix-ii) |
+## String
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/VictorJoeG/DSA/tree/master/1021-remove-outermost-parentheses) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/VictorJoeG/DSA/tree/master/1021-remove-outermost-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/VictorJoeG/DSA/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
