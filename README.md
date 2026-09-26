@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/VictorJoeG/DSA/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/VictorJoeG/DSA/tree/master/0013-roman-to-integer) |
+| [0344-reverse-string](https://github.com/VictorJoeG/DSA/tree/master/0344-reverse-string) |
 | [1021-remove-outermost-parentheses](https://github.com/VictorJoeG/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/VictorJoeG/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Stack
@@ -63,4 +64,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/VictorJoeG/DSA/tree/master/0013-roman-to-integer) |
+## Two Pointers
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/VictorJoeG/DSA/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
