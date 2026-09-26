@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/VictorJoeG/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0128-longest-consecutive-sequence](https://github.com/VictorJoeG/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/VictorJoeG/DSA/tree/master/0134-gas-station) |
+| [0204-count-primes](https://github.com/VictorJoeG/DSA/tree/master/0204-count-primes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/VictorJoeG/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0875-koko-eating-bananas](https://github.com/VictorJoeG/DSA/tree/master/0875-koko-eating-bananas) |
 | [1901-find-a-peak-element-ii](https://github.com/VictorJoeG/DSA/tree/master/1901-find-a-peak-element-ii) |
@@ -64,9 +65,30 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/VictorJoeG/DSA/tree/master/0013-roman-to-integer) |
+| [0204-count-primes](https://github.com/VictorJoeG/DSA/tree/master/0204-count-primes) |
 | [0507-perfect-number](https://github.com/VictorJoeG/DSA/tree/master/0507-perfect-number) |
 ## Two Pointers
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/VictorJoeG/DSA/tree/master/0344-reverse-string) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/VictorJoeG/DSA/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/VictorJoeG/DSA/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/VictorJoeG/DSA/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/VictorJoeG/DSA/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/VictorJoeG/DSA/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
