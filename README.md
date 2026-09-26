@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/VictorJoeG/DSA/tree/master/0013-roman-to-integer) |
+| [0507-perfect-number](https://github.com/VictorJoeG/DSA/tree/master/0507-perfect-number) |
 ## Two Pointers
 |  |
 | ------- |
