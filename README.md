@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/VictorJoeG/DSA/tree/master/0014-longest-common-prefix) |
 | [0074-search-a-2d-matrix](https://github.com/VictorJoeG/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0128-longest-consecutive-sequence](https://github.com/VictorJoeG/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/VictorJoeG/DSA/tree/master/0134-gas-station) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/VictorJoeG/DSA/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/VictorJoeG/DSA/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/VictorJoeG/DSA/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/VictorJoeG/DSA/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/VictorJoeG/DSA/tree/master/0344-reverse-string) |
 | [1021-remove-outermost-parentheses](https://github.com/VictorJoeG/DSA/tree/master/1021-remove-outermost-parentheses) |
@@ -93,4 +95,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/VictorJoeG/DSA/tree/master/0204-count-primes) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/VictorJoeG/DSA/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
