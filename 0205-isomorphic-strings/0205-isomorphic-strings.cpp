@@ -4,16 +4,12 @@ public:
         if (s.length() != t.length()) {
         return false;
     }
-
     unordered_map<char, char> charMapping;
     unordered_set<char> usedReplacements;
-
     for (int i = 0; i < s.length(); i++) {
         char original = s[i];
         char replacement = t[i];
-
         if (charMapping.find(original) == charMapping.end()) {
-            // New character: its replacement must not already be used
             if (usedReplacements.count(replacement)) {
                 return false;
             }
