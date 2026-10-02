@@ -2,18 +2,14 @@ class Solution {
 public:
     double myPow(double x, int n) {
         double ans = 1.0;
-        long long N = n;
-        bool neg = N < 0;
-        if (neg) N = -N;
+        bool neg = n < 0;
 
-        while (N > 0) {
-            if (N % 2 == 1) {
+        while (n != 0) {
+            if (n % 2 != 0) {
                 ans = ans * x;
-                N = N - 1;
-            } else {
-                x = x * x;
-                N = N / 2;
             }
+            x = x * x;
+            n = n / 2;
         }
 
         if (neg) {
