@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/VictorJoeG/DSA/tree/master/0013-roman-to-integer) |
+| [0050-powx-n](https://github.com/VictorJoeG/DSA/tree/master/0050-powx-n) |
 | [0204-count-primes](https://github.com/VictorJoeG/DSA/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/VictorJoeG/DSA/tree/master/0268-missing-number) |
 | [0507-perfect-number](https://github.com/VictorJoeG/DSA/tree/master/0507-perfect-number) |
@@ -139,4 +140,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/VictorJoeG/DSA/tree/master/0451-sort-characters-by-frequency) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/VictorJoeG/DSA/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
