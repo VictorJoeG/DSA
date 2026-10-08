@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/VictorJoeG/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/VictorJoeG/DSA/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/VictorJoeG/DSA/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/VictorJoeG/DSA/tree/master/0047-permutations-ii) |
 | [0074-search-a-2d-matrix](https://github.com/VictorJoeG/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/VictorJoeG/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/VictorJoeG/DSA/tree/master/0090-subsets-ii) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/VictorJoeG/DSA/tree/master/0047-permutations-ii) |
 | [0242-valid-anagram](https://github.com/VictorJoeG/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/VictorJoeG/DSA/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/VictorJoeG/DSA/tree/master/0451-sort-characters-by-frequency) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/VictorJoeG/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/VictorJoeG/DSA/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/VictorJoeG/DSA/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/VictorJoeG/DSA/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/VictorJoeG/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/VictorJoeG/DSA/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/VictorJoeG/DSA/tree/master/0216-combination-sum-iii) |
