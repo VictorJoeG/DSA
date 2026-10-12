@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/VictorJoeG/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/VictorJoeG/DSA/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/VictorJoeG/DSA/tree/master/0125-valid-palindrome) |
+| [0131-palindrome-partitioning](https://github.com/VictorJoeG/DSA/tree/master/0131-palindrome-partitioning) |
 | [0205-isomorphic-strings](https://github.com/VictorJoeG/DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/VictorJoeG/DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/VictorJoeG/DSA/tree/master/0344-reverse-string) |
@@ -166,5 +167,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/VictorJoeG/DSA/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/VictorJoeG/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/VictorJoeG/DSA/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/VictorJoeG/DSA/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/VictorJoeG/DSA/tree/master/0216-combination-sum-iii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0131-palindrome-partitioning](https://github.com/VictorJoeG/DSA/tree/master/0131-palindrome-partitioning) |
 <!---LeetCode Topics End-->
