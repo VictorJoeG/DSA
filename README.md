@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/VictorJoeG/DSA/tree/master/0047-permutations-ii) |
 | [0074-search-a-2d-matrix](https://github.com/VictorJoeG/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/VictorJoeG/DSA/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/VictorJoeG/DSA/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/VictorJoeG/DSA/tree/master/0090-subsets-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/VictorJoeG/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/VictorJoeG/DSA/tree/master/0134-gas-station) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/VictorJoeG/DSA/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/VictorJoeG/DSA/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/VictorJoeG/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [1901-find-a-peak-element-ii](https://github.com/VictorJoeG/DSA/tree/master/1901-find-a-peak-element-ii) |
 ## Divide and Conquer
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/VictorJoeG/DSA/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/VictorJoeG/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/VictorJoeG/DSA/tree/master/0020-valid-parentheses) |
+| [0079-word-search](https://github.com/VictorJoeG/DSA/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/VictorJoeG/DSA/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/VictorJoeG/DSA/tree/master/0131-palindrome-partitioning) |
 | [0205-isomorphic-strings](https://github.com/VictorJoeG/DSA/tree/master/0205-isomorphic-strings) |
@@ -168,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/VictorJoeG/DSA/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/VictorJoeG/DSA/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/VictorJoeG/DSA/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/VictorJoeG/DSA/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/VictorJoeG/DSA/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/VictorJoeG/DSA/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/VictorJoeG/DSA/tree/master/0216-combination-sum-iii) |
@@ -175,4 +179,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/VictorJoeG/DSA/tree/master/0131-palindrome-partitioning) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/VictorJoeG/DSA/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
