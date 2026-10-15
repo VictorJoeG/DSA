@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/VictorJoeG/DSA/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/VictorJoeG/DSA/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/VictorJoeG/DSA/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/VictorJoeG/DSA/tree/master/0051-n-queens) |
 | [0074-search-a-2d-matrix](https://github.com/VictorJoeG/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/VictorJoeG/DSA/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/VictorJoeG/DSA/tree/master/0079-word-search) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/VictorJoeG/DSA/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/VictorJoeG/DSA/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/VictorJoeG/DSA/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/VictorJoeG/DSA/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/VictorJoeG/DSA/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/VictorJoeG/DSA/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/VictorJoeG/DSA/tree/master/0090-subsets-ii) |
@@ -183,4 +185,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/VictorJoeG/DSA/tree/master/0079-word-search) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/VictorJoeG/DSA/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
