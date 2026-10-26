@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/VictorJoeG/DSA/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/VictorJoeG/DSA/tree/master/0050-powx-n) |
 | [0204-count-primes](https://github.com/VictorJoeG/DSA/tree/master/0204-count-primes) |
+| [0231-power-of-two](https://github.com/VictorJoeG/DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/VictorJoeG/DSA/tree/master/0268-missing-number) |
 | [0507-perfect-number](https://github.com/VictorJoeG/DSA/tree/master/0507-perfect-number) |
 ## Two Pointers
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/VictorJoeG/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/VictorJoeG/DSA/tree/master/0090-subsets-ii) |
+| [0231-power-of-two](https://github.com/VictorJoeG/DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/VictorJoeG/DSA/tree/master/0268-missing-number) |
 ## Sorting
 |  |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/VictorJoeG/DSA/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/VictorJoeG/DSA/tree/master/0231-power-of-two) |
 ## Backtracking
 |  |
 | ------- |
