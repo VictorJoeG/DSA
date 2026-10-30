@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/VictorJoeG/DSA/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/VictorJoeG/DSA/tree/master/0027-remove-element) |
+| [0037-sudoku-solver](https://github.com/VictorJoeG/DSA/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/VictorJoeG/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/VictorJoeG/DSA/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/VictorJoeG/DSA/tree/master/0046-permutations) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/VictorJoeG/DSA/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/VictorJoeG/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/VictorJoeG/DSA/tree/master/0037-sudoku-solver) |
 | [0128-longest-consecutive-sequence](https://github.com/VictorJoeG/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0205-isomorphic-strings](https://github.com/VictorJoeG/DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/VictorJoeG/DSA/tree/master/0242-valid-anagram) |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/VictorJoeG/DSA/tree/master/0037-sudoku-solver) |
 | [0074-search-a-2d-matrix](https://github.com/VictorJoeG/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/VictorJoeG/DSA/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/VictorJoeG/DSA/tree/master/0240-search-a-2d-matrix-ii) |
@@ -172,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/VictorJoeG/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/VictorJoeG/DSA/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/VictorJoeG/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/VictorJoeG/DSA/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/VictorJoeG/DSA/tree/master/0046-permutations) |
@@ -194,6 +198,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Algorithm X
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/VictorJoeG/DSA/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/VictorJoeG/DSA/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/VictorJoeG/DSA/tree/master/0052-n-queens-ii) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/VictorJoeG/DSA/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
