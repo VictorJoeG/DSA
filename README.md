@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/VictorJoeG/DSA/tree/master/0131-palindrome-partitioning) |
 | [0205-isomorphic-strings](https://github.com/VictorJoeG/DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/VictorJoeG/DSA/tree/master/0242-valid-anagram) |
+| [0282-expression-add-operators](https://github.com/VictorJoeG/DSA/tree/master/0282-expression-add-operators) |
 | [0344-reverse-string](https://github.com/VictorJoeG/DSA/tree/master/0344-reverse-string) |
 | [0451-sort-characters-by-frequency](https://github.com/VictorJoeG/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/VictorJoeG/DSA/tree/master/0796-rotate-string) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/VictorJoeG/DSA/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/VictorJoeG/DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/VictorJoeG/DSA/tree/master/0268-missing-number) |
+| [0282-expression-add-operators](https://github.com/VictorJoeG/DSA/tree/master/0282-expression-add-operators) |
 | [0507-perfect-number](https://github.com/VictorJoeG/DSA/tree/master/0507-perfect-number) |
 ## Two Pointers
 |  |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/VictorJoeG/DSA/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/VictorJoeG/DSA/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/VictorJoeG/DSA/tree/master/0216-combination-sum-iii) |
+| [0282-expression-add-operators](https://github.com/VictorJoeG/DSA/tree/master/0282-expression-add-operators) |
 ## Dynamic Programming
 |  |
 | ------- |
