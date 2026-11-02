@@ -1,33 +1,30 @@
 class Solution {
 public:
-    void helper(string s, int target,int i, const string& path, long eval, long residual, vector<string> &ans) {
-        if(i==s.length()){
-            if(eval==target){
+    void backtrack(int ind, string &num, int target, string path,
+                   long long eval, long long prev, vector<string> &ans) {
+        if (ind == num.size()) {
+            if (eval == target)
                 ans.push_back(path);
-                return;
-            }
-        } 
-        string currStr;
-        long num=0;
-        for(int j=i;j<s.length();j++){
-            if(j>i && s[i]=='0') return;
-            currStr+= s[j]; 
-            num= num*10 + s[j]- '0';
-            if(i==0){
-                helper(s,target, j+1,path+ currStr,num, num,ans);
-            }
-            else{
-                helper(s,target,j+1,path + "+" + currStr, eval + num, num, ans);
-                helper(s,target,j+1,path + "-" + currStr, eval - num, -num, ans);
-                helper(s,target,j+1,path + "*" + currStr, eval -residual + residual*num , residual*num, ans);
-
-
+            return;
+        }
+        long long curr = 0;
+        for (int i = ind; i < num.size(); i++) {
+            if (i != ind && num[ind] == '0') break;
+            curr = curr * 10 + (num[i] - '0');
+            string part = num.substr(ind, i - ind + 1);
+            if (ind == 0) {
+                backtrack(i+1,num,target,part,curr,curr,ans);
+            } else {
+                backtrack(i+1,num,target,path+"+"+part,eval+curr,curr,ans);
+                backtrack(i+1,num,target,path+"-"+part,eval-curr,-curr,ans);
+                backtrack(i+1,num,target,path+"*"+part,eval-prev+prev*curr,prev*curr,ans);
             }
         }
     }
-    vector<string> addOperators(string s, int target) {
-        vector<string>ans;
-        helper(s,target, 0, "", 0, 0,ans);
+    vector<string> addOperators(string num, int target) {
+        vector<string> ans;
+        string path = "";
+        backtrack(0, num, target, path, 0, 0, ans);
         return ans;
     }
 };
