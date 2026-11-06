@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/VictorJoeG/DSA/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/VictorJoeG/DSA/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/VictorJoeG/DSA/tree/master/0344-reverse-string) |
+| [0876-middle-of-the-linked-list](https://github.com/VictorJoeG/DSA/tree/master/0876-middle-of-the-linked-list) |
 ## Enumeration
 |  |
 | ------- |
@@ -220,4 +221,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0092-reverse-linked-list-ii](https://github.com/VictorJoeG/DSA/tree/master/0092-reverse-linked-list-ii) |
 | [0206-reverse-linked-list](https://github.com/VictorJoeG/DSA/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/VictorJoeG/DSA/tree/master/0328-odd-even-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/VictorJoeG/DSA/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
