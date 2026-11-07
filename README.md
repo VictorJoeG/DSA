@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/VictorJoeG/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/VictorJoeG/DSA/tree/master/0037-sudoku-solver) |
 | [0128-longest-consecutive-sequence](https://github.com/VictorJoeG/DSA/tree/master/0128-longest-consecutive-sequence) |
+| [0160-intersection-of-two-linked-lists](https://github.com/VictorJoeG/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/VictorJoeG/DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/VictorJoeG/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/VictorJoeG/DSA/tree/master/0268-missing-number) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/VictorJoeG/DSA/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/VictorJoeG/DSA/tree/master/0125-valid-palindrome) |
+| [0160-intersection-of-two-linked-lists](https://github.com/VictorJoeG/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/VictorJoeG/DSA/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/VictorJoeG/DSA/tree/master/0344-reverse-string) |
 | [0876-middle-of-the-linked-list](https://github.com/VictorJoeG/DSA/tree/master/0876-middle-of-the-linked-list) |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/VictorJoeG/DSA/tree/master/0002-add-two-numbers) |
 | [0092-reverse-linked-list-ii](https://github.com/VictorJoeG/DSA/tree/master/0092-reverse-linked-list-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/VictorJoeG/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/VictorJoeG/DSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/VictorJoeG/DSA/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/VictorJoeG/DSA/tree/master/0328-odd-even-linked-list) |
