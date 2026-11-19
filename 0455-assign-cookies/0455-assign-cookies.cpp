@@ -4,15 +4,17 @@ public:
         if(s.size()==0) return 0;
         sort(g.begin(),g.end());
         sort(s.begin(),s.end());
-        int i=0;
-        int j=0;
+        int i=g.size()-1;
+        int j=s.size()-1;
         int count=0;
-        while( i< g.size() && j< s.size()){
+        while( i>=0 && j>=0){
             if(s[j] >= g[i]){
-                i+=1;
+                i--;
+                j--;
+                count++;
             }
-            j+=1;
+            else i--;
         }
-        return i;
+        return count;
     }
 };
