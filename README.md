@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/VictorJoeG/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/VictorJoeG/DSA/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/VictorJoeG/DSA/tree/master/0268-missing-number) |
+| [0455-assign-cookies](https://github.com/VictorJoeG/DSA/tree/master/0455-assign-cookies) |
 | [0875-koko-eating-bananas](https://github.com/VictorJoeG/DSA/tree/master/0875-koko-eating-bananas) |
 | [1901-find-a-peak-element-ii](https://github.com/VictorJoeG/DSA/tree/master/1901-find-a-peak-element-ii) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/VictorJoeG/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/VictorJoeG/DSA/tree/master/0134-gas-station) |
+| [0455-assign-cookies](https://github.com/VictorJoeG/DSA/tree/master/0455-assign-cookies) |
 ## Matrix
 |  |
 | ------- |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/VictorJoeG/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/VictorJoeG/DSA/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/VictorJoeG/DSA/tree/master/0344-reverse-string) |
+| [0455-assign-cookies](https://github.com/VictorJoeG/DSA/tree/master/0455-assign-cookies) |
 | [0876-middle-of-the-linked-list](https://github.com/VictorJoeG/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/VictorJoeG/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Enumeration
@@ -177,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/VictorJoeG/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/VictorJoeG/DSA/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/VictorJoeG/DSA/tree/master/0451-sort-characters-by-frequency) |
+| [0455-assign-cookies](https://github.com/VictorJoeG/DSA/tree/master/0455-assign-cookies) |
 ## String Matching
 |  |
 | ------- |
@@ -266,4 +270,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/VictorJoeG/DSA/tree/master/0148-sort-list) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/VictorJoeG/DSA/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
