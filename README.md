@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/VictorJoeG/DSA/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/VictorJoeG/DSA/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/VictorJoeG/DSA/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/VictorJoeG/DSA/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/VictorJoeG/DSA/tree/master/0875-koko-eating-bananas) |
 | [1901-find-a-peak-element-ii](https://github.com/VictorJoeG/DSA/tree/master/1901-find-a-peak-element-ii) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/VictorJoeG/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0134-gas-station](https://github.com/VictorJoeG/DSA/tree/master/0134-gas-station) |
 | [0455-assign-cookies](https://github.com/VictorJoeG/DSA/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/VictorJoeG/DSA/tree/master/0860-lemonade-change) |
 ## Matrix
 |  |
 | ------- |
