@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/VictorJoeG/DSA/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/VictorJoeG/DSA/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/VictorJoeG/DSA/tree/master/0051-n-queens) |
+| [0057-insert-interval](https://github.com/VictorJoeG/DSA/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/VictorJoeG/DSA/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/VictorJoeG/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/VictorJoeG/DSA/tree/master/0078-subsets) |
