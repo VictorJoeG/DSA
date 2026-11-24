@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/VictorJoeG/DSA/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/VictorJoeG/DSA/tree/master/0875-koko-eating-bananas) |
 | [1901-find-a-peak-element-ii](https://github.com/VictorJoeG/DSA/tree/master/1901-find-a-peak-element-ii) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/VictorJoeG/DSA/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/VictorJoeG/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Hash Table
 |  |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/VictorJoeG/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/VictorJoeG/DSA/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/VictorJoeG/DSA/tree/master/0860-lemonade-change) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/VictorJoeG/DSA/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Matrix
 |  |
 | ------- |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/VictorJoeG/DSA/tree/master/0455-assign-cookies) |
 | [0876-middle-of-the-linked-list](https://github.com/VictorJoeG/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/VictorJoeG/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/VictorJoeG/DSA/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Enumeration
 |  |
 | ------- |
@@ -189,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/VictorJoeG/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/VictorJoeG/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/VictorJoeG/DSA/tree/master/0455-assign-cookies) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/VictorJoeG/DSA/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## String Matching
 |  |
 | ------- |
@@ -198,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/VictorJoeG/DSA/tree/master/0451-sort-characters-by-frequency) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/VictorJoeG/DSA/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -296,4 +301,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/VictorJoeG/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Prefix Sum
+|  |
+| ------- |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/VictorJoeG/DSA/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 <!---LeetCode Topics End-->
